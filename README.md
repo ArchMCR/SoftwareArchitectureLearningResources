@@ -3,22 +3,21 @@ An awesome list of resources for learning all about software architecture
 
 ## Certifications
 
-* TOGAF
-* AWS Solutions Architect
+* TOGAF (https://certification.opengroup.org/open-professions/migration)
+* AWS Solutions Architect (https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Books
 
-* Evolutionary Architecture by ...
-* Clean Architecture by Uncle Bob
+* Evolutionary Architecture by Neal Ford, Patrick Kua, and Rebecca Parsons
+* Clean Architecture by Robert Cecil Martin (Uncle Bob)
 * Software Architecture for Developers by Simon Brown
-* Clean Architecture by Uncle Bob
 * DDD by Eric Evans
-* Accelerate by ...
+* Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 
 ## Blogs
 
-* Phil Sturgeon 
-* Martin Fowler 
+* https://apisyouwonthate.com/blog - Phil Sturgeon 
+* https://martinfowler.com/bliki/ - Martin Fowler 
 
 ## Talks
 
@@ -31,12 +30,11 @@ An awesome list of resources for learning all about software architecture
 
 ## Activities
 
-* Architecture Katas
-* 
+* Architecture Katas (https://archkatas.herokuapp.com/)
 
 ## Newsletters
 
-* Level Up - Patrick Kua
+* Level Up - Patrick Kua (http://levelup.thekua.com/)
 * Cyber Weekly
 * DDD Weekly
 
@@ -52,7 +50,7 @@ An awesome list of resources for learning all about software architecture
 
 * SDD Deep Dive 
 * Infinity Works 101 sessions
-* ArchMCR - 
+* ArchMCR (https://mcrtech-slack.herokuapp.com/)
 * DDD Comunity
 * Software Architecture Conf
 * Q Conn
