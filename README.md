@@ -91,7 +91,7 @@ An awesome list of resources for learning all about software architecture
 
 * GDS Documentation
 
-** TO DO **
+  ** TO DO **
 
 * MOJ Documentation
 
