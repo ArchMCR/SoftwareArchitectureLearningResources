@@ -59,7 +59,7 @@ An awesome list of resources for learning all about software architecture
 
 ## Other
 
-* TechMCR Slack Cahnnel - 
+* TechMCR Slack Cahnnel - (https://mcrtech-slack.herokuapp.com/)
 * Colleagues
 * Partnering with 3rd party suppliers
 * GDS Documentation
@@ -67,9 +67,22 @@ An awesome list of resources for learning all about software architecture
 
 ## Events (Some of these are focused/based in North West England)
 
-* SDD Deep Dive 
+* Architecting Manchester (https://www.meetup.com/Manchester-Software-Architecture-Meetup/) 
+
+  Location: Manchester
+  
+  A community/meetup for people interested in software architecture. Meeting once a month to host group discussions around aofwtare and architecture. 
+
 * Infinity Works 101 sessions
-* ArchMCR (https://mcrtech-slack.herokuapp.com/)
+
+  Location: Manchester 
+  
+  Organised by consultancy company Infinity Works these sessions offer a hands on introduction to technologies and platforms. Allowing people to gain a base level of understanding in tools and technologies they may not be familiar with. 
+
+* SDD Deep Dive 
+
+
+  
 * DDD Comunity
 * Software Architecture Conf
 * Q Conn
