@@ -52,17 +52,27 @@ An awesome list of resources for learning all about software architecture
 
 * https://www.thoughtworks.com/radar
 
-  Well regarded in the wider industry, Thoughtworks Technology Radar captures the current trends in technologies, tools, platforms and languages & frameworks. A great resource for looking at what 
+  Well regarded in the wider industry, Thoughtworks Technology Radar captures the current trends in technologies, tools, platforms and languages & frameworks. A great resource for finding the pulse of the industry in terms of trends and discover new ideas/tehcnologies to try. There is also a framework to develop your own technology radar to capture your organisations current approved technologies and techniques. 
 
 ## Activities
 
 * Architecture Katas (https://archkatas.herokuapp.com/)
 
+  A set of exercies to practices aoftware architecture. ** TO DO ** 
+
 ## Newsletters
 
+* DDD Weekly (http://dddweekly.com/)
+
+  A collection of links and articles curated around DDD but covering topics from the wider software space.
+  
 * Level Up (http://levelup.thekua.com/)
-* Cyber Weekly - 
-* DDD Weekly
+
+  Curated by Patrick Kua (see Evolutionary Architecture in books) this newletter is a collection of links to articles on leadership and technology. Great for those running teams of developers. 
+  
+* Cyber Weekly
+
+  ** TO DO **
 
 ## Other
 
@@ -95,9 +105,20 @@ An awesome list of resources for learning all about software architecture
 
 * SDD Deep Dive 
 
-
+  ** TO DO **
   
 * DDD Comunity
+
+  ** TO DO **
+  
 * Software Architecture Conf
+
+  ** TO DO **
+  
 * Q Conn
+
+  ** TO DO **
+  
 * X-conf
+
+  ** TO DO **
