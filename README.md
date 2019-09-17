@@ -70,7 +70,7 @@ An awesome list of resources for learning all about software architecture
 
   Curated by Patrick Kua (see Evolutionary Architecture in books) this newletter is a collection of links to articles on leadership and technology. Great for those running teams of developers. 
   
-* Cyber Weekly
+* Cyber Weekly (http://www.cyberweekly.net/)
 
   ** TO DO **
 
@@ -89,11 +89,11 @@ An awesome list of resources for learning all about software architecture
 
   Often organisations do not have the necessary skills and expertise in house, so it can be beneficial to get help from external providers. This applies equally to architecture. If working with cloud providers then often (depending on the support model) an avenue for getting advice on designs. ** TO DO - needs more on 3rd party supliers to speak to **
 
-* GDS Documentation
+* GDS Documentation (https://docs.publishing.service.gov.uk/)
 
   ** TO DO **
 
-* MOJ Documentation
+* MOJ Documentation (https://ministryofjustice.github.io/technical-guidance/#moj-technical-guidance & https://ministryofjustice.github.io/security-guidance/#moj-security--guidance)
 
   ** TO DO **
   
