@@ -65,7 +65,7 @@ An awesome list of resources for learning all about software architecture
 * GDS Documentation
 * MOJ Documentation
 
-## Events (These focused specific to North West England)
+## Events (Some of these are focused/based in North West England)
 
 * SDD Deep Dive 
 * Infinity Works 101 sessions
