@@ -11,7 +11,7 @@ An awesome list of resources for learning all about software architecture
 
 * Evolutionary Architecture by Neal Ford, Patrick Kua, and Rebecca Parsons
 
-  A look at where architecture is today and what architecture looks is evolving/changing is a key tenant (as opposed to up front design). Introduces the idea of testing architectural traits through fitness functions. There is some powerful/interesting ideas but a lack of concreate examples let's it down. 
+  A look at where architecture is today and what architecture looks like when evolving/changing is a key tenant (as opposed to up front design). Introduces the idea of testing architectural traits through fitness functions. There is some powerful/interesting ideas but a lack of concrete examples is a drawback. 
  
 * Clean Architecture by Robert Cecil Martin (Uncle Bob)
 
@@ -38,7 +38,7 @@ An awesome list of resources for learning all about software architecture
 
 * https://martinfowler.com/bliki/ - Martin Fowler 
 
-  Martin Fowler and his colleagues form thoughtworks cover many topics software related including - design patterns, testing strategies, branching/feature switching strategies, technical debt. Always well reasoned and well written some of the industry best writing on subjects. 
+  Martin Fowler and his colleagues from thoughtworks cover many topics software related including - design patterns, testing strategies, branching/feature switching strategies, technical debt. Always well reasoned and well written some of the industry highest regarded writing on software development. 
 
 ## Talks
 
@@ -48,7 +48,7 @@ An awesome list of resources for learning all about software architecture
 
 * https://c4model.com/
 
-  Website created by Simon Brown (see books) which takes the power of whiteboard daigrams and tries to add extra context and details. Whilst maintaining simplicist for creation and reading (unlike UML) this framework allows developers/architects to draw pwoerful diagrams with appropriate levels of detail.
+  Website created by Simon Brown (see books) which takes the power of whiteboard diagrams and tries to add extra context and details. Whilst maintaining simplicity for creation and reading (as opposed to UML) this framework allows developers/architects to draw pwoerful diagrams with appropriate levels of detail without too much overhead.
 
 * https://www.thoughtworks.com/radar
 
@@ -103,7 +103,7 @@ An awesome list of resources for learning all about software architecture
 
   Location: Manchester, UK
   
-  A community/meetup for people interested in software architecture. Meeting once a month to host group discussions around aofwtare and architecture. 
+  A community/meetup for people interested in software architecture. Meeting once a month to host group discussions aroundsofwtare and architecture. 
 
   Price: Free
 
