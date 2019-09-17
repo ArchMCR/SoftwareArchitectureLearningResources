@@ -3,7 +3,9 @@ An awesome list of resources for learning all about software architecture
 
 ## Certifications
 
-* TOGAF (https://certification.opengroup.org/open-professions/migration)
+* TOGAF
+  https://www.opengroup.org/togaf
+
 * AWS Solutions Architect (https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Books
@@ -34,8 +36,8 @@ An awesome list of resources for learning all about software architecture
 
 ## Newsletters
 
-* Level Up - Patrick Kua (http://levelup.thekua.com/)
-* Cyber Weekly
+* Level Up (http://levelup.thekua.com/)
+* Cyber Weekly - 
 * DDD Weekly
 
 ## Other
