@@ -15,13 +15,15 @@ An awesome list of resources for learning all about software architecture
  
 * Clean Architecture by Robert Cecil Martin (Uncle Bob)
 
-  Uncle Bob continues the idea of clean code and extends it to architecture. 
+  Uncle Bob continues the idea of clean code and extends it to architecture. ** TODO ** 
 
 * Software Architecture for Developers by Simon Brown
 
+  ** TODO ** 
   
-* DDD by Eric Evans
+* Domain Driven Design by Eric Evans
 
+  The book which introduced the concepts of DDD, domains, bounded contexts and ubiqutous language. Although very dense it is a very worthwhile read and will give you tools to tackle software design problems. Even more significant today with the explosion of microservices than when it was written. 
   
 * Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren
 
@@ -44,8 +46,13 @@ An awesome list of resources for learning all about software architecture
 
 ## Websites
 
-* https://c4model.com/ - 
-* https://www.thoughtworks.com/radar - 
+* https://c4model.com/
+
+  Website created by Simon Brown (see books) which takes the power of whiteboard daigrams and tries to add extra context and details. Whilst maintaining simplicist for creation and reading (unlike UML) this framework allows developers/architects to draw pwoerful diagrams with appropriate levels of detail.
+
+* https://www.thoughtworks.com/radar
+
+  Well regarded in the wider industry, Thoughtworks Technology Radar captures the current trends in technologies, tools, platforms and languages & frameworks. A great resource for looking at what 
 
 ## Activities
 
@@ -60,7 +67,14 @@ An awesome list of resources for learning all about software architecture
 ## Other
 
 * TechMCR Slack Cahnnel - (https://mcrtech-slack.herokuapp.com/)
+
+  A Manchester focused slack channel for all chat tech wise. A great place to ask questions about technology, the industry or just to find out about events. There is also a channel dedicated for architecture. 
+
+
 * Colleagues
+
+  Sometimes the simplest solutions are the best and simply by speaking to colleagues about architecture and finding people within the organisation who you can learn from can be the best source of knowledge. 
+
 * Partnering with 3rd party suppliers
 * GDS Documentation
 * MOJ Documentation
