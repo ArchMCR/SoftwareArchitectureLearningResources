@@ -101,16 +101,20 @@ An awesome list of resources for learning all about software architecture
 
 * Architecting Manchester (https://www.meetup.com/Manchester-Software-Architecture-Meetup/) 
 
-  Location: Manchester
+  Location: Manchester, UK
   
   A community/meetup for people interested in software architecture. Meeting once a month to host group discussions around aofwtare and architecture. 
 
+  Price: Free
+
 * Infinity Works 101 sessions
 
-  Location: Manchester 
+  Location: Manchester, UK 
   
   Organised by consultancy company Infinity Works these sessions offer a hands on introduction to technologies and platforms. Allowing people to gain a base level of understanding in tools and technologies they may not be familiar with. 
 
+  Price: Free
+  
 * SDD Deep Dive 
 
   ** TO DO **
@@ -129,4 +133,8 @@ An awesome list of resources for learning all about software architecture
   
 * X-conf
 
-  ** TO DO **
+  Location: Manchester, UK & Munich, Germany &  Barcelona, Spain
+  
+  Thoughtworks one day conference covering everything from languages and specficic technologies, software craftmanship, testing stategies, etc.. A very general conference but with a low price point it is nearly always value for money. 
+  
+  Price: ~£50 (or ~£25 for earlybird)
