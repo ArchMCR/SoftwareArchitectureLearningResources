@@ -86,9 +86,17 @@ An awesome list of resources for learning all about software architecture
   Sometimes the simplest solutions are the best and simply by speaking to colleagues about architecture and finding people within the organisation who you can learn from can be the best source of knowledge. 
 
 * Partnering with 3rd party suppliers
+
+  Often organisations do not have the necessary skills and expertise in house, so it can be beneficial to get help from external providers. This applies equally to architecture. If working with cloud providers then often (depending on the support model) an avenue for getting advice on designs. ** TO DO - needs more on 3rd party supliers to speak to **
+
 * GDS Documentation
+
+** TO DO **
+
 * MOJ Documentation
 
+  ** TO DO **
+  
 ## Events (Some of these are focused/based in North West England)
 
 * Architecting Manchester (https://www.meetup.com/Manchester-Software-Architecture-Meetup/) 
