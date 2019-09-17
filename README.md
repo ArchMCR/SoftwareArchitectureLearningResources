@@ -72,7 +72,7 @@ An awesome list of resources for learning all about software architecture
   
 * Cyber Weekly (http://www.cyberweekly.net/)
 
-  ** TO DO **
+  A weekly roundup of interesting content from across the web that is of interest to people working in cyber security (long form articles and blog posts, as well as links to outages, incidents and security bugs that you might find interesting) curated by Michael Brunton-Spall (former Security Architect for GDS).
 
 ## Other
 
@@ -91,11 +91,11 @@ An awesome list of resources for learning all about software architecture
 
 * GDS Documentation (https://docs.publishing.service.gov.uk/)
 
-  ** TO DO **
+  Technical documentation for the GOV.UK team in the Government Digital Service. Interesting view into how they do things.
 
 * MOJ Documentation (https://ministryofjustice.github.io/technical-guidance/#moj-technical-guidance & https://ministryofjustice.github.io/security-guidance/#moj-security--guidance)
 
-  ** TO DO **
+  Technical documentation for the Ministry of Justice. The Technical Guidance covers principles and standards for their developers, the Security Guidance documents some of the security decisions they have made with justification. 
   
 ## Events (Some of these are focused/based in North West England)
 
