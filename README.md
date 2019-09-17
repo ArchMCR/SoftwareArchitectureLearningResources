@@ -4,6 +4,7 @@ An awesome list of resources for learning all about software architecture
 ## Certifications
 
 * TOGAF
+
   https://www.opengroup.org/togaf
 
 * AWS Solutions Architect (https://aws.amazon.com/certification/certified-solutions-architect-associate/)
